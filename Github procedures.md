@@ -1,9 +1,9 @@
 Procedure for Managing GitHub at DPH
 Purpose
-This document outlines the procedures for managing the North Carolina Division of Public Health’s GitHub repository, including access, moderation, ownership, and other key responsibilities. The goal is to ensure data security while at the same time providing a public benefit from code sharing. 
+This document outlines the procedures for managing the North Carolina Division of Public Healthâ€™s GitHub repository, including access, moderation, ownership, and other key responsibilities. The goal is to ensure data security while at the same time providing a public benefit from code sharing. 
 
 1. Account Usage and general responsibilities
-* GitHub Account: Employees must use their DHHS email to create Github accounts. These accounts must be used when working on or contributing to the state health division’s public repository. GitHub accounts using personal email addresses should not be used.
+* GitHub Account: Employees must use their DHHS email to create Github accounts. These accounts must be used when working on or contributing to the state health divisionâ€™s public repository. GitHub accounts using personal email addresses should not be used.
 * Github administrators: Manage repository settings, approve major changes, and ensure smooth operations. Responsible for the technical aspects of the repository, including code review and approval of contributions. Administrators oversee the overall strategy and compliance of GitHub repository usage.
 * Contributors: Upload and maintain code and documentation, ensuring it aligns with division goals and standards.
 * DPH is responsible for management. Auditing and administrating tasks. 
@@ -36,6 +36,6 @@ This document outlines the procedures for managing the North Carolina Division o
 * Ongoing Maintenance: The repository should be regularly maintained to ensure that the code remains relevant and functional. Obsolete or deprecated code should be clearly labeled or removed.
 * Documentation: Contributors are required to maintain clear documentation for all code uploaded. This includes details on functionality, dependencies, and instructions for use.
 * Handling Transitions: If the main administrator or a key contributor leaves the division, their responsibilities must be formally transferred to another qualified team member.
-o Access Transfer: The exiting person’s GitHub permissions will be immediately revoked, and a successor will be appointed to manage the repository.
+o Access Transfer: The exiting personâ€™s GitHub permissions will be immediately revoked, and a successor will be appointed to manage the repository.
 o Handover of Responsibilities: A comprehensive handover document should be prepared, including current state of the repository, pending issues or updates, and instructions for repository management
 * Backup Procedures: Regular backups of the repository (code and documentation) should be made to an internal, secure location to ensure continuity of access if needed.
